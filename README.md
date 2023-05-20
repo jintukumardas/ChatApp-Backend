@@ -1,7 +1,9 @@
 # ChatApp-Backend
 
  Tasks:  Build a simple application which provides web services to facilitate group chat and manage data.
-  Requirements:
+ 
+# Requirements:
+  
     1. Admin APIs (only admin can add users)
       - Manage Users (create user, edit user)
 
