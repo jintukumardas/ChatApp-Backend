@@ -12,7 +12,9 @@ const User = require("./app/models/user");
   Author: Jintu Kumar Das
   Date: 21-05-2023
   Description: Node.js Assignment
+  
   Tasks:  Build a simple application which provides web services to facilitate group chat and manage data.
+  
   Requirements:
     1. Admin APIs (only admin can add users)
       - Manage Users (create user, edit user)
@@ -32,6 +34,7 @@ const User = require("./app/models/user");
     
     6. Database
       - Use database of your choice (MongoDB is used here)
+      
 */
 
 const app = express();
